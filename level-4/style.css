@@ -55,3 +55,11 @@ div {
         background-color: aqua;
     }
 }
+
+@media (min-width : 200px) and (max-width: 300px) {
+    #ab {
+        background-color: rgb(111, 0, 255);
+    }
+}
+
+
