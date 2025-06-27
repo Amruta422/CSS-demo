@@ -1,0 +1,56 @@
+#xy{
+    height:100px;
+    width:100px;
+    background-color: green;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+#a{
+    height:100px;
+    width:100px;
+    background-color: red;
+    border-radius: 50%;
+    margin-bottom:4px;
+}
+#b{
+    height:100px;
+    width:100px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-bottom:4px;
+}
+#c{
+    height:100px;
+    width:100px;
+    background-color: rgb(66, 179, 66);
+    border-radius: 50%;
+    margin-bottom:40px;
+}
+
+*{
+    color:antiquewhite ;
+    text-decoration: none;
+}
+
+#AB{
+    background-color: black;
+    height:60px;
+   
+}
+#A{
+    color: chocolate;
+    font-size: 20px;
+    
+}
+
+
+
+button{
+    background-color: chocolate;
+   
+}
+
+a{
+    margin-right: 250px;
+}
