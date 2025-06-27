@@ -1,4 +1,4 @@
-body {
+/*body {
     text-align: center;
 }
 
@@ -15,8 +15,9 @@ div {
     flex-direction: row;
      justify-content: center;
    /* flex-wrap: wrap;*/
-    align-items: flex-start;
+    /*align-items: flex-start;
     /*align-content: flex-start;*/
+    /*
 }
 #box1 {
     background-color: blueviolet;
@@ -27,7 +28,7 @@ div {
     height:100px;
     /*align-self: flex-end;*/
     /*flex-shrink: 0;*/
-
+/*
 }
 #box3 {
     background-color: rgb(43, 150, 226);
@@ -38,4 +39,19 @@ div {
 }
 #box5 {
     background-color: rgb(226, 150, 43);
+}
+*/
+
+
+#ab {
+    height:50px;
+    width:50px;
+    background-color: brown;
+  
+}
+
+@media (max-width : 600px) {
+    #ab {
+        background-color: aqua;
+    }
 }
